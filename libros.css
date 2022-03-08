@@ -1,0 +1,13 @@
+
+p,p2{
+    color:rgb(0, 217, 255);
+    display: list-item;
+    list-style: disc inside;
+    margin-left: 5px;
+  }
+
+p3{
+    background-color: rgb(255, 251, 0);
+    color: black;
+    font-weight: 900;
+}
